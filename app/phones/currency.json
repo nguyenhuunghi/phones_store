@@ -1,0 +1,9 @@
+{
+    "currency": {
+        "dollar": "USD",
+        "pound": "GBP",
+        "yen": "JPY",
+        "euro": "EUR",
+        "dong": "VND"
+    }
+}
