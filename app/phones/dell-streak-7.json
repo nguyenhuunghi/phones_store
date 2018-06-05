@@ -60,5 +60,6 @@
     "storage": {
         "flash": "16000MB", 
         "ram": "512MB"
-    }
+    },
+    "price": "50.00"
 }

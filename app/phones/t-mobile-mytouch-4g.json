@@ -61,5 +61,6 @@
     "storage": {
         "flash": "1100MB", 
         "ram": "768MB"
-    }
+    },
+    "price": "50.00"
 }
