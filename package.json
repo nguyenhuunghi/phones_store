@@ -21,8 +21,7 @@
     "typescript": "^2.7.2"
   },
   "scripts": {
-    "ng": "ng",
-    "postinstall": "ng build --aot -prod",
+    "postinstall": "bower install",
     "prestart": "npm install",
     "start": "http-server ./app -a localhost -p 8000 -c-1",
     "pretest": "npm install",
